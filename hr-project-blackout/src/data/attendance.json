@@ -1,0 +1,362 @@
+{
+    "attendanceAndLeave": [
+        {
+            "employeeId": 1,
+            "name": "Sibongile Nkosi",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-20",
+                    "endDate": "2025-07-22",
+                    "reason": "Sick Leave",
+                    "status": "Approved"
+                },
+                {
+                    "startDate": "2024-12-01",
+                    "endDate": "2024-12-05",
+                    "reason": "Personal",
+                    "status": "Pending"
+                }
+            ]
+        },
+        {
+            "employeeId": 2,
+            "name": "Lungile Moyo",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-15",
+                    "endDate": "2025-07-18",
+                    "reason": "Family Responsibility",
+                    "status": "Denied"
+                },
+                {
+                    "startDate": "2024-12-20",
+                    "endDate": "2024-12-27",
+                    "reason": "Vacation",
+                    "status": "Approved"
+                }
+            ]
+        },
+        {
+            "employeeId": 3,
+            "name": "Thabo Molefe",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-10",
+                    "endDate": "2025-07-11",
+                    "reason": "Medical Appointment",
+                    "status": "Approved"
+                },
+                {
+                    "startDate": "2024-12-05",
+                    "endDate": "2024-12-08",
+                    "reason": "Personal",
+                    "status": "Pending"
+                }
+            ]
+        },
+        {
+            "employeeId": 4,
+            "name": "Keshav Naidoo",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-20",
+                    "endDate": "2025-07-23",
+                    "reason": "Bereavement",
+                    "status": "Approved"
+                }
+            ]
+        },
+        {
+            "employeeId": 5,
+            "name": "Zanele Khumalo",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2024-12-01",
+                    "endDate": "2024-12-04",
+                    "reason": "Childcare",
+                    "status": "Pending"
+                }
+            ]
+        },
+        {
+            "employeeId": 6,
+            "name": "Sipho Zulu",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-18",
+                    "endDate": "2025-07-21",
+                    "reason": "Sick Leave",
+                    "status": "Approved"
+                }
+            ]
+        },
+        {
+            "employeeId": 7,
+            "name": "Naledi Moeketsi",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-22",
+                    "endDate": "2025-07-26",
+                    "reason": "Vacation",
+                    "status": "Pending"
+                }
+            ]
+        },
+        {
+            "employeeId": 8,
+            "name": "Farai Gumbo",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2024-12-02",
+                    "endDate": "2024-12-04",
+                    "reason": "Medical Appointment",
+                    "status": "Approved"
+                }
+            ]
+        },
+        {
+            "employeeId": 9,
+            "name": "Karabo Dlamini",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2025-07-19",
+                    "endDate": "2025-07-22",
+                    "reason": "Childcare",
+                    "status": "Denied"
+                }
+            ]
+        },
+        {
+            "employeeId": 10,
+            "name": "Fatima Patel",
+            "attendance": [
+                {
+                    "date": "2025-07-25",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-26",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-27",
+                    "status": "Absent"
+                },
+                {
+                    "date": "2025-07-28",
+                    "status": "Present"
+                },
+                {
+                    "date": "2025-07-29",
+                    "status": "Present"
+                }
+            ],
+            "leaveRequests": [
+                {
+                    "startDate": "2024-12-15",
+                    "endDate": "2024-12-22",
+                    "reason": "Vacation",
+                    "status": "Pending"
+                }
+            ]
+        }
+    ]
+}
